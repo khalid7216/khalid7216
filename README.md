@@ -41,5 +41,5 @@ I'm **Khalid**, a passionate **Full-Stack Developer** from Pakistan 🇵🇰
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [Portfolio Website](https://your-portfolio.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/khalid-hussian-a0a5b02b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+
